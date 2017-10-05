@@ -92,8 +92,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>$(SIV3D_0_1_6)\Include;$(IncludePath)</IncludePath>
-    <LibraryPath>$(SIV3D_0_1_6)\Lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(SIV3D_0_1_7)\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SIV3D_0_1_7)\Lib;$(LibraryPath)</LibraryPath>
     <OutDir>$(SolutionDir)$(ProjectName)\Release-x64\</OutDir>
     <IntDir>$(SolutionDir)$(ProjectName)\Intermediate\Release-x64\</IntDir>
   </PropertyGroup>
